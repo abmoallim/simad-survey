@@ -1,5 +1,5 @@
-let uriAll = "http://localhost:2000/api/feedback/report/";
-let uriSurvey = "http://localhost:2000/api/survey/";
+let uriAll = "https://bytesotech.cloud/survey/api/feedback/report/";
+let uriSurvey = "https://bytesotech.cloud/survey/api/survey/";
 // getChart(1)
 
 

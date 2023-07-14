@@ -2,7 +2,7 @@
 let uri = "https://bytesotech.cloud/target/api/role/";
 let Geturl = "https://bytesotech.cloud/target/api/ads/customers/data/";
 
-let uriAll = "http://localhost:2000/api/admin/";
+let uriAll = "https://bytesotech.cloud/survey/api/admin/";
 
 $(document).ready(function () {
   console.log("ready!");

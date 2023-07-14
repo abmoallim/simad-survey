@@ -1,7 +1,4 @@
-// get users
-
-
-let uriAll = "http://localhost:2000/api/category/";
+let uriAll = "https://bytesotech.cloud/survey/api/category/";
 
 $(document).ready(function () {
   console.log("ready!");

@@ -1,7 +1,7 @@
-let uriSurvey = "http://localhost:2000/api/survey/";
-let uriQuestion = "http://localhost:2000/api/questions/";
+let uriSurvey = "https://bytesotech.cloud/survey/api/survey/";
+let uriQuestion = "https://bytesotech.cloud/survey/api/questions/";
 
-let uriCatagory = "http://localhost:2000/api/category/";
+let uriCatagory = "https://bytesotech.cloud/survey/api/category/";
 
 $(document).ready(function () {
   //

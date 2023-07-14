@@ -1,8 +1,4 @@
-// get users
-let uri = "https://bytesotech.cloud/target/api/role/";
-let Geturl = "https://bytesotech.cloud/target/api/ads/customers/data/";
-
-let uriAll = "http://localhost:2000/api/anouncment/";
+let uriAll = "https://bytesotech.cloud/survey/api/anouncment/";
 
 $(document).ready(function () {
   console.log("ready!");
