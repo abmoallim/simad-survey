@@ -31,7 +31,7 @@ if(isset($_FILES["fileToUpload"])) {
         echo json_encode(array("url" => "error"));
     }else {
         if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
-            $url = "uploads/" . $file_name;
+            $url = "https://abmoallim.github.io/simad-survey/uploads/" . $file_name;
             echo json_encode(array("url" => $url));
         } else {
             echo json_encode(array("url" => "error"));
